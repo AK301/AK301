@@ -26,13 +26,13 @@ I'm a versatile and detail-oriented data science professional with a strong acad
 | Project | Link | Domain |
 |--------|------|--------|
 | Python for Data Science | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/Python%20for%20data%20science) | Foundations, EDA |
-| Data Mining & Clustering | [🔗 View Repo](https://github.com/AK301/Data-Mining-Clustering) | Segmentation |
-| Predictive Modeling | [🔗 View Repo](https://github.com/AK301/Predictive-Modeling) | ML – Classification |
-| FastKart SQL Project | [🔗 View Repo](https://github.com/AK301/FastKart-SQL) | Retail/E-commerce |
-| Tableau – Insurance Dashboard | [🔗 View Repo](https://github.com/AK301/Tableau-Insurance) | BI Visualization |
-| Machine Learning | [🔗 View Repo](https://github.com/AK301/Machine-Learning-Project) | Classification |
-| Finance & Risk Analysis | [🔗 View Repo](https://github.com/AK301/Finance-Risk-Analysis) | Risk Modeling |
-| Capstone: Insurance Pricing | [🔗 View Repo](https://github.com/AK301/Capstone-Insurance-Cost) | Health & Insurance |
+| Data Mining & Clustering | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/Data%20Mining) | Segmentation |
+| Predictive Modeling | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/Predictive%20Modeling) | ML – Classification |
+| FastKart SQL Project | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/SQL) | Retail/E-commerce |
+| Tableau – Insurance Dashboard | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/Tablue) | BI Visualization |
+| Machine Learning | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/Machine%20Learning) | Classification |
+| Finance & Risk Analysis | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/Finance%20and%20Risk%20Analytics) | Risk Modeling |
+| Capstone: Insurance Pricing | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/CAPSTONE) | Health & Insurance |
 
 > 👉 Click on each link above to explore source code, visualizations, and final insights.
 
