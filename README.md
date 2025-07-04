@@ -40,7 +40,7 @@ I'm a versatile and detail-oriented data science professional with a strong acad
 
 ## 📫 Let’s Connect
 
-- 📧 [advait.kulkarni301@email.com](mailto:advait.kulkarni301@email.com)
+- 📧 [advaitkulkarni301@email.com](mailto:advaitkulkarni301@email.com)
 - 🔗 [LinkedIn]([(https://www.linkedin.com/in/advait-kulkarni301/)])
 - 🌐 [GitHub](https://github.com/AK301)
 
