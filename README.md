@@ -25,7 +25,7 @@ I'm a versatile and detail-oriented data science professional with a strong acad
 
 | Project | Link | Domain |
 |--------|------|--------|
-| Python for Data Science | [🔗 View Repo](https://github.com/AK301/Python-for-Data-Science) | Foundations, EDA |
+| Python for Data Science | [🔗 View Repo](https://github.com/AK301/Data-Science-Portfolio/tree/main/Python%20for%20data%20science) | Foundations, EDA |
 | Data Mining & Clustering | [🔗 View Repo](https://github.com/AK301/Data-Mining-Clustering) | Segmentation |
 | Predictive Modeling | [🔗 View Repo](https://github.com/AK301/Predictive-Modeling) | ML – Classification |
 | FastKart SQL Project | [🔗 View Repo](https://github.com/AK301/FastKart-SQL) | Retail/E-commerce |
